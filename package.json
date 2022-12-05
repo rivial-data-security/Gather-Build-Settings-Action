@@ -1,0 +1,19 @@
+{
+  "name": "gather-build-settings-action",
+  "version": "1.0.0",
+  "description": "Determines preview branch build settings based of code changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivial-data-security/Gather-Build-Settings-Action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivial-data-security/Gather-Build-Settings-Action/issues"
+  },
+  "homepage": "https://github.com/rivial-data-security/Gather-Build-Settings-Action#readme"
+}
